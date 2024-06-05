@@ -1,6 +1,6 @@
 # DeFi Selenium Bot
 
-<p align="center"><img width="160" height="160" src="images/inter.jpg" alt="Defi Bot interface" /></p>
+<p align="center"><img width="1920" height="1080" src="images/inter.jpg" alt="Defi Bot interface" /></p>
 
 <p align="center"><img width="160" height="160" src="images/bitcoin.png" alt="Defi Bot logo" /></p>
 
