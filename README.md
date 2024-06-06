@@ -75,6 +75,7 @@ DeFi Selenium Bot is an innovative solution designed to optimize crypto assets a
 - 💎 Snipe Pinksale listings
 - 🛠 Create fully automated strategies to BUY THE DIP and use TRAILING STOP LOSS
 - 🔑 Place Limit Orders
+- 🍔 Liquidity Farms. Minimize fees within any network by calculating the recent blocks farmed to indicate the lowest fee to the miner. This way you will be able to reduce the fee when farming in the ETH network to $1
 
 ### Intuitive Interface
 
