@@ -8,8 +8,6 @@
 
 <p align="center"><img width="720" height="463" src="images/inter.jpg" alt="Defi Bot interface" /></p>
 
-> Work on Mac OS and Windows
-
 <p align="center">
   <a href="https://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg" alt="License: GPL v3"></a>
   <a href="https://codecov.io/gh/SockTrader/SockTrader"><img src="https://codecov.io/gh/SockTrader/SockTrader/branch/master/graph/badge.svg" /></a>
@@ -23,7 +21,7 @@
 
 
 
-
+> Work on Mac OS and Windows
 > This Bot, a DeFi Trading bot for ETH, BSC, AVAX, MATIC, FTM, Harmony, Metis, CRONOS, KCC, VELAS, Pulsechain, Venom, Kaikas, Milkomeda, Solana and more, can Swap, Sniping and Arbitrage
 
 ## Download
